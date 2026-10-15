@@ -144,8 +144,8 @@ The experiment also highlights the value of regularization, data augmentation, a
 
 ## Team Members
 
-- **Dhanush K. S.**
 - **D. Harikrishnan**
+- **Dhanush K. S.**
 
 ## Reference
 
